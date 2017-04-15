@@ -1,0 +1,34 @@
+url: https://defremont.github.io/levantei
+baseurl: /levantei/
+
+# Site settings
+title: Levantei
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+- name: André Defrémont
+  pic: 1
+  position: Consultor de Marketing e Desenvolvedor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: fb.com.br/andre.defremont
+    - title: stack-overflow
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url:
+# Postal address (add as many lines as necessary)
+address:
+  - line: Belém - Pará - Brasil
+  - line: Reduto, CEP 66053-320
+
+# Build settings
+markdown: kramdown
+permalink: pretty
